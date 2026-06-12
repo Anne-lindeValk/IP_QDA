@@ -1,2 +1,5 @@
-# Ignore data folder
-Data/
+# Ignore raw data folders
+Data/260519_jdv084_NR cl5_24h
+Data/260519_jdv084_NR cl5_48h
+Data/lif_2-13_24h
+Data/lif_2-13_48h
