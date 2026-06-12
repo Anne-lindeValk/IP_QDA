@@ -5,18 +5,8 @@
 4. Short description of genAI use
 
 ## 12-06-2026
-### Anne-Lin
-1. 
-2. 
-3. 
-4. 
-### Lema
-1. 
-2. 
-3. 
-4. 
 ### Sophie
-1. 
-2. 
-3. 
-4. 
+1. Get familiar with the data sets and set up environments
+2. Everyone can activate the virtual environment and open Cellpose from it
+3. environment.yml is not cross-compatible with Windows and Mac. Still need to finish and test a reproducible file. Didn't test Napari on all devices yet (I had to downgrade the numpy version)
+4. Set up UvA AI chat custom instructions. Used it to debug issues with setting up the virtual environment
